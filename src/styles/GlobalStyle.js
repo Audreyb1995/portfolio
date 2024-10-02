@@ -6,7 +6,7 @@ const GlobalStyle = createGlobalStyle`
   :root {
     --font-title: "Patrick Hand", cursive;
     --font-subtitle:"Merriweather", serif;
-    --primary-color:  #A4D9BA;
+    --primary-color:  #295656;
     --secondary-color: #EFECE5;
 
   }

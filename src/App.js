@@ -19,9 +19,9 @@ function App() {
 
   return (
     <div>
-      {isLoading ? (
+      {/* {isLoading ? (
         <Loader />
-      ) : (
+      ) : ( */}
         <div>
           <HomeSection />
           <div>
@@ -30,7 +30,7 @@ function App() {
           <ProjectSection />
           <Footer/>
         </div>
-      )}
+      {/* )} */}
 
     </div> 
   );

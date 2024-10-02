@@ -1,3 +1,4 @@
+import Nenuphar from "../assets/images/img-project/img-nenuphar.png"
 import PremieresFois from "../assets/images/img-project/img-mespremieresfois.png";
 import LeBonCoin from "../assets/images/img-project/img-leboncoin.png";
 import Easyjet from "../assets/images/img-project/img-easyjet.png";
@@ -8,10 +9,20 @@ import Html from "../assets/images/icons-skills/html.png";
 import Css from "../assets/images/icons-skills/css.png";
 import Strapi from "../assets/images/icons-skills/strapi.png";
 import Sass from "../assets/images/icons-skills/sass.png";
+import React from '../assets/images/icons-skills/react.png'
 import Javascript from "../assets/images/icons-skills/javascript.png";
 
 
 export const ProjectList = [
+  {
+    title: "Projet Freelance - Portfolio Artiste",
+    period: "Projet réalisé en Septembre 2024",
+    description:
+      " Site porfolio réalisé pour un artiste ",
+    stack: "Gestion du front avec React et Sass, mise en place du responsive design et utilisation de la bibliothèque Framer Motion.",
+    skills: [React, Sass],
+    image: Nenuphar,
+  },
   {
     title: "Projet personnel - Site Mes Premières fois",
     period: "Projet en cours de réalisation - Juillet 2024",
@@ -60,5 +71,5 @@ export const ProjectList = [
     skills: [Html, Css, Javascript],
     image: Porfolio,
     link: "https://www.julien.grandgirard.net/",
-  },
+  }
 ];

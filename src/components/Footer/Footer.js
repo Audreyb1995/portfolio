@@ -2,7 +2,7 @@
 import styled from "styled-components"
 
 const StyledFooter = styled.div`
-background-color: #a5ccbf;
+background-color: #295656;
 font-family: var(--font-subtitle);
 height: 60px;
 color: white;

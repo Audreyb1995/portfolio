@@ -43,7 +43,6 @@ const ProjectTitle = styled.div`
         font-size: 40px;
         top: 60px;
       }
-      }
 `;
 
 function Projects() {

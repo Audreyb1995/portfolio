@@ -10,7 +10,7 @@ const StyledAboutMe = styled.div`
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    padding; 30px;
+    padding: 30px;
     width: 100%;
   
     
