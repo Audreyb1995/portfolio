@@ -18,10 +18,11 @@ export const ProjectList = [
     title: "Projet Freelance - Portfolio Artiste",
     period: "Projet réalisé en Septembre 2024",
     description:
-      " Site porfolio réalisé pour un artiste ",
+      " Site portfolio réalisé pour un artiste ",
     stack: "Gestion du front avec React et Sass, mise en place du responsive design et utilisation de la bibliothèque Framer Motion.",
     skills: [React, Sass],
     image: Nenuphar,
+    link: "https://nenupharmusic.fr"
   },
   {
     title: "Projet personnel - Site Mes Premières fois",
@@ -65,10 +66,10 @@ export const ProjectList = [
   },
   {
     title: "Portfolio Développeur Web",
-    period: "Projet réalisé en Mars 2024",
+    period: "Projet réalisé en Octobre 2024",
     description: "Réalisation d'un Portfolio pour un Développeur Web.",
     stack: null,
-    skills: [Html, Css, Javascript],
+    skills: [React, Sass],
     image: Porfolio,
     link: "https://www.julien.grandgirard.net/",
   }

@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import Scotch from "../../assets/images/scotch.png";
-import { useState } from "react";
+
 
 const StyledProject = styled.div`
   display: flex;
