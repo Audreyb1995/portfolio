@@ -83,7 +83,8 @@ const AboutMeSection = () => {
             Cette transition m’a menée à suivre une formation en <span>développement web</span>, puis à réaliser un stage de six mois chez Dowino, une entreprise engagée.
             <br></br>Lors de ce stage, j’ai développé en autonomie une application web en Vue.js 3 liée à un casque de réalité augmentée, et j’ai participé à la création d’interfaces de visualisation de données dans un projet à destination du monde agricole. Ces expériences ont renforcé ma maîtrise des technologies front-end et mon intérêt pour l’expérience utilisateur.
             <br></br>Formée à <span>Vue.js, HTML/CSS, JavaScript, SCSS, Git</span>, j’approfondis aujourd’hui mes compétences back-end avec <span>Node.js et les bases de données</span> et front-end avec <span>React</span>.
-            <br></br><span>Mon objectif</span> : créer des interfaces claires, accessibles et engageantes, au service de projets à impact.
+            <p><span>Mon objectif</span> : Créer des interfaces claires, accessibles et engageantes, au service de projets à impact.
+            </p>
           </p>
           <div className="email-block">
           <FontAwesomeIcon icon="fa-solid fa-envelope" />

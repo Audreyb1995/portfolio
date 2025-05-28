@@ -29,7 +29,6 @@ function App() {
             <AboutMeSection />
           </div>
           <div>
-            <ExperiencesSection/>
           </div>
           <ProjectSection />
           <Footer/>
