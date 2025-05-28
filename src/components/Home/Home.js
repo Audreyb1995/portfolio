@@ -127,7 +127,7 @@ const HomeSection = () => {
         <h2>AUDREY BAUFAYS</h2>
         <p>
           <span>
-            FORMATION <br /> DÉVELOPPEUSE WEB
+            DÉVELOPPEUSE WEB
           </span>
         </p>
         <div>

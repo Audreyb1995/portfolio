@@ -4,6 +4,7 @@ import AboutMeSection from "./components/AboutMe/AboutMe.js";
 import ProjectSection from "./components/Projects/Projects.js";
 import Footer from "./components/Footer/Footer.js";
 import { useState, useEffect } from "react";
+import ExperiencesSection from "./components/Experiences/Experiences.js";
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
@@ -26,6 +27,9 @@ function App() {
           <HomeSection />
           <div>
             <AboutMeSection />
+          </div>
+          <div>
+            <ExperiencesSection/>
           </div>
           <ProjectSection />
           <Footer/>

@@ -42,6 +42,7 @@ const StyledAboutMe = styled.div`
       text-align: justify;
       width: 700px;
       margin-bottom: 30px;
+      line-height: 22px;
 
       span {
       color: var(--primary-color);
@@ -78,16 +79,11 @@ const AboutMeSection = () => {
         </div>
         <div className="about-me-description">
           <p className="text-description">
-            Après avoir obtenu mon diplôme d'Assistante de service social et
-            acquis une expérience en clinique privée, j'ai ressenti le besoin de
-            donner une nouvelle orientation à ma carrière. Attirée par le monde
-            du Web, j'ai entrepris une formation en{" "}
-            <span>développement web et web mobile</span> au Reacteur. Désireuse
-            de continuer à progresser et d'approfondir mes compétences, je
-            recherche une entreprise pouvant m'accueillir en stage ou en
-            alternance. Intégrer une entreprise me permettrait de développer
-            davantage mes compétences et concrétiser ce nouveau projet
-            professionnel.
+            Après plusieurs années dans le travail social, j’ai choisi de me réorienter vers le développement web afin de continuer à concevoir des solutions utiles et accessibles. 
+            Cette transition m’a menée à suivre une formation en <span>développement web</span>, puis à réaliser un stage de six mois chez Dowino, une entreprise engagée.
+            <br></br>Lors de ce stage, j’ai développé en autonomie une application web en Vue.js 3 liée à un casque de réalité augmentée, et j’ai participé à la création d’interfaces de visualisation de données dans un projet à destination du monde agricole. Ces expériences ont renforcé ma maîtrise des technologies front-end et mon intérêt pour l’expérience utilisateur.
+            <br></br>Formée à <span>Vue.js, HTML/CSS, JavaScript, SCSS, Git</span>, j’approfondis aujourd’hui mes compétences back-end avec <span>Node.js et les bases de données</span> et front-end avec <span>React</span>.
+            <br></br><span>Mon objectif</span> : créer des interfaces claires, accessibles et engageantes, au service de projets à impact.
           </p>
           <div className="email-block">
           <FontAwesomeIcon icon="fa-solid fa-envelope" />
